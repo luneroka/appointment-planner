@@ -14,29 +14,29 @@ This is a React application for managing contacts and appointments. Users can ad
 
 1. Clone the repository:
 
-  ```bash
-  git clone https://github.com/your-username/appointment-planner.git
-  ```
+```bash
+git clone https://github.com/your-username/appointment-planner.git
+```
 
 2. Navigate to the project directory:
 
-  ```bash
-  cd appointment-planner
-  ```
+```bash
+cd appointment-planner
+```
 
 3. Install the dependencies:
 
-  ```bash
-  npm install
-  ```
+```bash
+npm install
+```
 
 ## Usage
 
 1. Start the development server:
 
-  ```bash
-  npm start
-  ```
+```bash
+npm start
+```
 
 2. Open your browser and navigate to http://localhost:3000.
 
@@ -68,7 +68,7 @@ A page for managing contacts. It includes a form for adding new contacts and a l
 
 ## Credits
 
-This project is part of Codecademy's Full-Stack Engineer Path as a [Challenge Exercice](https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-front-end-development/tracks/fscj-22-react-part-ii/modules/wdcp-22-appointment-planner-c5a61b95-e14f-4007-8448-a3f3e5242386/projects/appointment-planner) of the [React Course](https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-front-end-development/tracks/fscj-22-react-part-ii/modules/wdcp-22-introduction-react-part-ii-a384be56-edf5-4135-ae01-45df08a94eec/informationals/wdcp-22-introduction-react-part-ii).
+This project is part of Codecademy's [Full-Stack Engineer Path](https://www.codecademy.com/career-journey/full-stack-engineer) as a [Challenge Exercice](https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-front-end-development/tracks/fscj-22-react-part-ii/modules/wdcp-22-appointment-planner-c5a61b95-e14f-4007-8448-a3f3e5242386/projects/appointment-planner) of the [React Course](https://www.codecademy.com/journeys/full-stack-engineer/paths/fscj-22-front-end-development/tracks/fscj-22-react-part-ii/modules/wdcp-22-introduction-react-part-ii-a384be56-edf5-4135-ae01-45df08a94eec/informationals/wdcp-22-introduction-react-part-ii).
 The starting code for this project has been provided by Codecademy so I could focus on implementing components logic.
 
 ## License
