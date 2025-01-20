@@ -30,6 +30,7 @@ function App() {
       name: appointment.name,
       contact: appointment.contact,
       date: appointment.date,
+      time: appointment.time,
     };
     setAppointments((prev) => [...prev, newAppointment]);
   }
