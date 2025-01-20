@@ -40,11 +40,16 @@ function App() {
         <Route index element={<Navigate to={ROUTES.CONTACTS} replace />} />
         <Route
           path={ROUTES.CONTACTS}
-          element={<ContactsPage /> /* Add props to ContactsPage */}
+          element={<ContactsPage contacts={contacts} onAdd={addContact} />}
         />
         <Route
           path={ROUTES.APPOINTMENTS}
-          element={<AppointmentsPage /> /* Add props to AppointmentsPage */}
+          element={
+            <AppointmentsPage
+              appointments={appointments}
+              onAdd={addAppointment}
+            />
+          }
         />
       </Route>
     )
