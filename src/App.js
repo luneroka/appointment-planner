@@ -47,6 +47,7 @@ function App() {
           element={
             <AppointmentsPage
               appointments={appointments}
+              contacts={contacts}
               onAdd={addAppointment}
             />
           }
